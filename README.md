@@ -8,6 +8,7 @@ This project analyzes a global health statistics dataset to determine which fact
 The analysis used both exploratory data analysis and multiple machine learning models.  
 Careful examination of the dataset's feature distributions and relationships revealed strong indications of **synthetic data balancing**, which impacted model interpretability and real-world generalizability.
 
+Data Source is : https://www.kaggle.com/datasets/malaiarasugraj/global-health-statistics
 ---
 
 ## Techniques Used
